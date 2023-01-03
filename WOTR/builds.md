@@ -5,11 +5,11 @@ Table of contents
 - [Character Builds](#character-builds)
   - [Main Character Builds](#main-character-builds)
     - [Holy Spirit (Shaman Spirit Warden & Angel Mythic Path)](#holy-spirit-shaman-spirit-warden--angel-mythic-path)
-      - [Species: Human](#species-human)
+      - [Species](#species)
       - [Stats](#stats)
       - [Skills](#skills)
       - [Hexes and Misc](#hexes-and-misc)
-      - [Feats and Classes (Dual Wield Dagger](#feats-and-classes-dual-wield-dagger)
+      - [Feats and Classes (Dual Wield Dagger)](#feats-and-classes-dual-wield-dagger)
       - [Spells To be Added](#spells-to-be-added)
       - [Hexes To be Added](#hexes-to-be-added)
       - [Mythic Path to be Added](#mythic-path-to-be-added)
@@ -22,7 +22,7 @@ Table of contents
       - [Mythic Path:](#mythic-path)
       - [Hexes](#hexes)
       - [Shaman Spells](#shaman-spells)
-      - [Alchemist Spells:](#alchemist-spells)
+      - [Alchemist Spells](#alchemist-spells)
       - [GEAR](#gear)
       - [Notes](#notes)
     - [Seelah](#seelah)
@@ -270,23 +270,23 @@ Paladin to 20
 #### Feats and Classes
 
 - 02: Demonslayer
-- 03: Demonslayer \- Deadly Aim (Or Improved Initiative, Unfair difficulty), Bonus Feat - Precise Shot
-- 04: Demonslayer \- Favored Terrain: Urban
-- 05: Demonslayer \- Pet - (Wolf/Dog best), Feat - Boon Companion (after selecting pet first, unable to pick boon until you do.)
+- 03: Demonslayer - Deadly Aim (Or Improved Initiative, Unfair difficulty), Bonus Feat - Precise Shot
+- 04: Demonslayer - Favored Terrain: Urban
+- 05: Demonslayer - Pet - (Wolf/Dog best), Feat - Boon Companion (after selecting pet first, unable to pick boon until you do.)
 - 06: Demonslayer
-- 07: Demonslayer \- Outflank, Point Blank Master - Longbow
+- 07: Demonslayer - Outflank, Point Blank Master - Longbow
 - 08: Demonslayer
-- 09: Demonslayer \- Snap Shot, Favored Terrain: Underground
+- 09: Demonslayer - Snap Shot, Favored Terrain: Underground
 - 10: Demonslayer
-- 11: Demonslayer \- Select any normal feat first, then select Rapid Shot as a bonus feat, then go back to change your normal feat to Improved Snap Shot
+- 11: Demonslayer - Select any normal feat first, then select Rapid Shot as a bonus feat, then go back to change your normal feat to Improved Snap Shot
 - 12: Demonslayer
-- 13: Demonslayer \- Greater Snap Shot (Or Improved Critical Longbow if you want it early)
-- 14: Gendarme \- Order of the Cockatrice, Weapon Focus: Longbow
-- 15: Gendarme \- Shatter Defenses
-- 16: Demonslayer \- Favored Terrain: Abyss
-- 17: Demonslayer \- Deadly Aim/Improved Initiative (whichever you didn't pick at level 3), Improved Critical Longbow
+- 13: Demonslayer - Greater Snap Shot (Or Improved Critical Longbow if you want it early)
+- 14: Gendarme - Order of the Cockatrice, Weapon Focus: Longbow
+- 15: Gendarme - Shatter Defenses
+- 16: Demonslayer - Favored Terrain: Abyss
+- 17: Demonslayer - Deadly Aim/Improved Initiative (whichever you didn't pick at level 3), Improved Critical Longbow
 - 18: Demonslayer
-- 19: Many options, but Demonslayer recommended \- Manyshot\/Improved Precise Shot\/Clustered Shots
+- 19: Many options, but Demonslayer recommended - Manyshot/Improved Precise Shot/Clustered Shots
 - 20: Gendarme
 
 #### Mythic Path
@@ -299,11 +299,11 @@ Paladin to 20
 
 #### Stats
 
-- 4: +1 DEX
-- 8: +1 DEX
-- 12: +1 DEX
-- 16: +1 DEX
-- 18: +1 CON
+- 4: DEX
+- 8: DEX
+- 12: DEX
+- 16: DEX
+- 18: CON
 
 #### Skills
 
@@ -326,24 +326,24 @@ Paladin to 20
 - 13: Vivisectionist - Shatter Defenses, Rage
 - 14: Vivisectionist - Dispelling Attack, Echolocation
 - 15: Vivisectionist - Greater Two Weapon Fighting, Greater False Life/Greater Invisibility
-- 16:  Vivisectionist - Greater Mutagen
-- 17:  Vivisectionist - Improved Initiative, Any spell
-- 18:  Vivisectionist - Feral Mutagen
-- 19:  Vivisectionist - Any feat, but video chooses Arcane Strike
-- 20:  Vivisectionist - Grant Mutagen, Transformation
+- 16: Vivisectionist - Greater Mutagen
+- 17: Vivisectionist - Improved Initiative, Any spell
+- 18: Vivisectionist - Feral Mutagen
+- 19: Vivisectionist - Any feat, but video chooses Arcane Strike
+- 20: Vivisectionist - Grant Mutagen, Transformation
 
 #### Mythic Path
 
 - 01: Abundant Casting (or Last Stand if Unfair), Ever ready, Pounce/Unrelenting Assault/Archmage Armor,
 - 02: Mythic Two Weapon Fighting
-- 03 - Ever Ready
-- 04 - Mythic Improved Critical - Dagger
-- 05 - Pounce/Unrelenting Assault/Archmage Armor
-- 06 - Mythic Piranha Strike
-- 07 - Mythic Charge/Improved Abundant Casting
-- 08 - Mythic Improved Initiative
-- 09 - Last Stand
-- 10 - Mythic Sneak Attacker/Weapon Focus/Any
+- 03: Ever Ready
+- 04: Mythic Improved Critical - Dagger
+- 05: Pounce/Unrelenting Assault/Archmage Armor
+- 06: Mythic Piranha Strike
+- 07: Mythic Charge/Improved Abundant Casting
+- 08: Mythic Improved Initiative
+- 09: Last Stand
+- 10: Mythic Sneak Attacker/Weapon Focus/Any
 
 #### Gear
 
@@ -385,24 +385,23 @@ Paladin to 20
 - 09: Witch - Skill Focus: Knowledge (World)
 - 10: Loremaster - Spellbook Witch
 - 11: Witch - Greater Spell Penetration
-  12: Witch
-  13: Witch - Spell Focus: Enchantment
-  14: Loremaster
-  15: Loremaster - Greater Spell Focus: Enchantment, Shatter Defences
-  16: Witch
-  17: Loremaster - Improved Critical:Ray
-  18: Loremaster - Cleric/wizard Spell: Overwhelming Presence
-  19: Loremaster - Metamagic: Bolster Spell.
-  20: Loremaster Secret: Improved Initiative
+- 12: Witch
+- 13: Witch - Spell Focus: Enchantment
+- 14: Loremaster
+- 15: Loremaster - Greater Spell Focus: Enchantment, Shatter Defences
+- 16: Witch
+- 17: Loremaster - Improved Critical:Ray
+- 18: Loremaster - Cleric/wizard Spell: Overwhelming Presence
+- 19: Loremaster - Metamagic: Bolster Spell.
+- 20: Loremaster Secret: Improved Initiative
 
 #### Hexes
 
 - 04: (Hard and Below) Evil Eye // (Unfair)Protective Luck
 - 06: Cackle
 - 08: Fortune
-- 11: Beast's Gift
-- 13: Protective Luck
--
+- 10: Beast's Gift
+- 12: Protective Luck
 
 #### Spells
 
@@ -413,31 +412,35 @@ Paladin to 20
 
 #### Skills
 
-- Knowledge(Arcana)
-- Knowledge(World)
-- Lore(Nature)
-- UMD Lore(Religion)
+- Knowledge (Arcana)
+- Knowledge (World)
+- Lore (Nature)
+- UMD Lore (Religion)
 - Perception when you get more skill points.
+
+#### Stats
+
+- INT until 20, then DEX
 
 #### Feats and Classes
 
-- 04: Scroll Savant +INT \(until lvl20\)\[Grease, Glitterdust\]
-- 05: Scroll Savant - Martial Weapon Proficiency (requirement for Eldritch Knight) [Haste, Heroism (Displacement valid choice for Illusion slot)]
-- 06: Eldritch Knight – Improved Initiative\
-- 07: Eldritch Knight – Outflank [Sense Vitals, Greater Magic Weapon]
-- 08: Eldritch Knight [Greater Invisibility, Phantasmal Killer]
-- 09: Eldritch Knight - Heighten Spell (for Grease, Phantasmal Killer, Glitterdust, Color Spray) [False life, True Strike]
-- 10: Eldritch Knight - Combat Reflexes [Echolocation, Mind Fog (or Animal Growth)]
-- 11: Eldritch Knight - Improved Critical (Bardiche) [Any]
-- 12: Eldritch Knight [Greater Heroism, Transformation]
-- 13: Eldritch Knight - Persistent Spell (for Phantasmal Killer) [Any]
-- 14: Eldritch Knight - Weapon Focus (Bardiche) [Ice Body, Legendary Proportions]
-- 15: Eldritch Knight - Skill Focus-Knowledge(World) (for Loremaster) [Dragonkind II, Firebrand]
+- 04: Scroll Savant
+- 05: Scroll Savant - Martial Weapon Proficiency (requirement for Eldritch Knight)
+- 06: Eldritch Knight – Improved Initiative
+- 07: Eldritch Knight – Outflank
+- 08: Eldritch Knight
+- 09: Eldritch Knight - Heighten Spell (for Grease, Phantasmal Killer, Glitterdust, Color Spray)
+- 10: Eldritch Knight - Combat Reflexes
+- 11: Eldritch Knight - Improved Critical: Bardiche
+- 12: Eldritch Knight
+- 13: Eldritch Knight - Persistent Spell (for Phantasmal Killer)
+- 14: Eldritch Knight - Weapon Focus: Bardiche
+- 15: Eldritch Knight - Skill Focus: Knowledge(World) (for Loremaster)
 - 16: Loremaster - Secret: Combat Feat (Shatter Defenses)[Frightful aspect, Seamantle]
 - 17: Loremaster - Greater Spell Focus (Illusion)[Dragonkind III]
 - 18: Loremaster - Secret: Opportunist [Weird]
 - 19: Loremaster - Weapon Specialization (Bardiche) [Weird]
-- 20: Loremaster +DEX (for even bonus) - Secret: Cleric Spell (Divine Power)
+- 20: Loremaster - Secret: Cleric Spell (Divine Power)
 
 #### Mythic Path
 
@@ -451,6 +454,20 @@ Paladin to 20
 - 08: Spell Focus (Mythic) - Illusion OR Weapon Specialization (Mythic) - Bardiche
 - 09: Last Stand
 - 10: Weapon Specialization (Mythic) - Bardiche OR Weapon Focus (Mythic) - Bardiche
+
+#### Spells
+
+- 04: Grease, Glitterdust
+- 05: Haste, Heroism (Displacement valid choice for Illusion slot)
+- 07: Sense Vitals, Greater Magic Weapon
+- 08: Greater Invisibility, Phantasmal Killer
+- 09: False life, True Strike
+- 10: Echolocation, Mind Fog or Animal Growth
+- 11: Any
+- 12: Greater Heroism, Transformation
+- 13: Any
+- 14: Ice Body, Legendary Proportions
+- 15: Dragonkind II, Firebrand
 
 #### Gear
 
@@ -468,41 +485,6 @@ Paladin to 20
 - Bracers: Bracers of Eldritch Scholar
 - Weapons: Death's Consonant + QuaterStaff of the War Mage (when launching offensive spells) - any Glaive or Bardiche foe early game
 - Quickslots: Greater Quicken Metamagic Rod (mostly for Weird), Grandmaster's Rod (Weird), Greater Persistent Metamagic Rod (Weird), Extend Metamagic Rod (for some buffs), The Covenant of the Inheritor
-
-#### Spells
-
-Lv,1 Enlarge Person, Unbreakable Heart
-Lv2, GlitterDust, Flase Life, Pernicious Poison, Cure Moderate Wounds, Find Traps
-Lv3, Stinking Cloud, Vampiric Touch, Remove Curse, Cure Serious Wounds
-Lv4, Phantasmal Killer, Enervation, Greater Flase Life, Dimension Door
-Lv5, Mind Fog, FeebleMind, Baleful Polymorph, Summon Monster
-Lv6, Greater heroism/Greater Dispel Magic, Raise Dead, Stone To flesh
-Lv7, Heal, Ice Body, Greater Bestow Curse
-Lv8, Mind Blank, Storm Bolts,Heal
-Lv9, Mind Blank Communal, ForeSight, heroic Invocation
-
-#### Gear
-
-Neck: Glass Amulet of Clarity
-Chest: Deadly Rays
-Shirt: Robe of the seven sins/Robe of Mephistopheles
-Belt: Belt of Physical Perfection
-Gloves: Twisted Temptaion
-Boots: Ronnecks sacrifice/ freest Rein
-Helmet: Darkness Caress
-Goggles: Goggles of Mind Control/ Piercing Gaze
-Cloak: Resistance+6
-Ring 1: Red Salamander
-Ring 2: Ring of Chaotic Fascination
-Bracer: Bracers of Mind Break
-Weapon - Quaterstaff of the War Mage
-Quick Slot:
-
-1. Greater Quicken Metamagic
-2. Grandmaster's Rod
-3. Devouring Lust
-4. Extend Metamagic Rod
-5. Old Grimoir/Signet of house vespertillio
 
 ### Daeran
 
@@ -565,25 +547,20 @@ Oracle to 20
 - 13: Divine Power, Raise Dead, Inspiring Recovery
 - 14: Resurrection
 - 15: Greater Command, Any
--
 
-Gear:
-Amulet : Wind Breath
-Armor : Webstrider or Snakeskin
-Robes : Robe of the Seven Sins
-Belt : Physical Form +6
-Gloves : Fencers Gift
-Boots : Ronnecks Sacrifice
-Helmet : Zaoris’s Beauty
-Glasses : Goggles of Piercing Gaze
-Cloak : Cloak of Resistance +6
-Rings: Red Salamander & Ring of Evasion
-Bracers : Bracers of the Heavy Hand
-Weapons : Translucent Needle of Astonishment – Interceptor
+#### Gear
 
-Quickslots:
-Devouring Lust
-Grandmasters Rod
-Greater Quicken Metamagic Rod
-Old Grimoire
-Signet of House Vespertilio - Persuasion
+- Amulet: Wind Breath
+- Armor: Webstrider or Snakeskin
+- Robes: Robe of the Seven Sins
+- Belt: Physical Form +6
+- Gloves: Fencer's Gift
+- Boots: Ronneck's Sacrifice
+- Helmet: Zaoris’s Beauty
+- Glasses: Goggles of Piercing Gaze
+- Cloak: Cloak of Resistance +6
+- Ring 1: Red Salamander
+- Ring 2: Ring of Evasion
+- Bracers: Bracers of the Heavy Hand
+- Weapons : Translucent Needle of Astonishment – Interceptor
+- Quickslots: Devouring Lust, Grandmasters Rod, Greater Quicken Metamagic Rod, Old Grimoire, Signet of House Vespertilio - Persuasion
