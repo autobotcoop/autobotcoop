@@ -1,5 +1,6 @@
-# Work in Progress 
-# Table of contents
+Work in Progress 
+
+Table of contents
 
 - [Character Builds](#character-builds)
   - [Main Character Builds](#main-character-builds)
@@ -7,8 +8,8 @@
       - [Species: Human](#species-human)
       - [Stats](#stats)
       - [Skills](#skills)
-      - [Hexes and Misc:](#hexes-and-misc)
-      - [Feats and Classes (Dual Wield Dagger):](#feats-and-classes-dual-wield-dagger)
+      - [Hexes and Misc](#hexes-and-misc)
+      - [Feats and Classes (Dual Wield Dagger](#feats-and-classes-dual-wield-dagger)
       - [Spells To be Added](#spells-to-be-added)
       - [Hexes To be Added](#hexes-to-be-added)
       - [Mythic Path to be Added](#mythic-path-to-be-added)
@@ -28,42 +29,50 @@
       - [Stats](#stats)
       - [Feats and Classes](#feats-and-classes)
 
-# Character Builds 
+# Character Builds
 
 ## Main Character Builds
 
 ### Holy Spirit (Shaman Spirit Warden & Angel Mythic Path)
+
 Credit: [Mortismal Gaming](https://www.youtube.com/@MortismalGaming)
+
 #### Species: Human
+
 Background: Oblate, Acolyte
+
 #### Stats
-* STR 10
-* DEX 18
-* CON 12
-* INT 10
-* WIS 18
-* CHA 7
+
+- STR 10
+- DEX 18
+- CON 12
+- INT 10
+- WIS 18
+- CHA 7
+
 #### Skills
-* Lore, Nature
-* Lore, Religion
-* Persuasion
+
+- Lore, Nature
+- Lore, Religion
+- Persuasion
+
  #### Misc
-* Spirit: Wind
-* Familiar: Lizard
-* Deity: Phrasma
-* Alignment: Neutral Good
+- Spirit: Wind
+- Familiar: Lizard
+- Deity: Phrasma
+- Alignment: Neutral Good
 #### Feats and Classes (Dual Wield Dagger Version) 
 Spirit Warden to 20
-* 1: Blind Fighting & Weapon Finesse
-* 3: Two Weapon Fighting 
-* 5: Weapon Focus: Dagger 
-* 7: Fencing Grace: Dagger 
-* 9: Improved Two Weapon Fighting
-* 11: Hammer the Gap
-* 13: Improved Critical Dagger 
-* 15: Greater Two Weapon Fighting
-* 17: Piranha Strike 
-* 19: Critical Focus
+- 1: Blind Fighting & Weapon Finesse
+- 3: Two Weapon Fighting
+- 5: Weapon Focus: Dagger
+- 7: Fencing Grace: Dagger
+- 9: Improved Two Weapon Fighting
+- 11: Hammer the Gap
+- 13: Improved Critical Dagger 
+- 15: Greater Two Weapon Fighting
+- 17: Piranha Strike 
+- 19: Critical Focus
 #### Mythic Path to be Added 
 
 #### Spells To be Added 
@@ -77,75 +86,75 @@ Prologue and early chapter 1 can be rough. I recommend using a long spear until 
 ### Camella
 Credit: [CRPG Bro](https://www.youtube.com/@cRPGBro)
 #### Stats
-* Increase Dex
+- Increase Dex
 #### Skills
-* Trickery 
-* Stealth 
-* Perception
+- Trickery
+- Stealth
+- Perception
 #### Feats and Classes
 Shaman until level 17
-* 3: Combat Reflexes
-* 5: Two Weapon Fighting (Rapier+Dagger until level 9---->2 Rapiers)
-* 6: Skills
-* 7: Outflank
-* 9: Improved Two Weapon Fighting (use 2 Rapiers now)
-* 11: Improved Critical: Rapier
-* 12: Weapon Specialization: Rapier
-* 13: Weapon Focus : Rapier
-* 14: Skills
-* 15: Skill Focus: World \\ Arcana (Prereq. for Loremaster)
-* 16: Greater Weapon Focus: Rapier
-* 17: Loremaster 1: Greater Weapon Fighting, Combat Feat: Shatter Defenses
-* 18: Loremaster 2: Boon Companion, Rogue Secret: Opportunist
-* 19: Loremaster 3: Improved Initiative
-* 20: Vivisectionist
+- 3: Combat Reflexes
+- 5: Two Weapon Fighting (Rapier+Dagger until level 9---->2 Rapiers)
+- 6: Skills
+- 7: Outflank
+- 9: Improved Two Weapon Fighting (use 2 Rapiers now)
+- 11: Improved Critical: Rapier
+- 12: Weapon Specialization: Rapier
+- 13: Weapon Focus : Rapier
+- 14: Skills
+- 15: Skill Focus: World \\ Arcana (Prereq. for Loremaster)
+- 16: Greater Weapon Focus: Rapier
+- 17: Loremaster 1: Greater Weapon Fighting, Combat Feat: Shatter Defenses
+- 18: Loremaster 2: Boon Companion, Rogue Secret: Opportunist
+- 19: Loremaster 3: Improved Initiative
+- 20: Vivisectionist
 #### Mythic Path
-* 1: Enduring Spells/(Last Stand for Unfair)
-* 2: Weapon Finesse (Mythic)/Greater Enduring Spells
-* 3: Greater Enduring Spells/Ever Ready
-* 4: Improved Critical (Mythical): Rapier
-* 5: Ever Ready
-* 6: Extra Mythic Ability: Second Spirit: Nature, Animal Companion - Wolf/Dog
-* 7: Mythical Beast
-* 8: 2 Weapon Fighting (Mythic)
-* 9: Last Stand 
-* 10:Weapon Focus (Mythic): Rapier
+- 1: Enduring Spells/(Last Stand for Unfair)
+- 2: Weapon Finesse (Mythic)/Greater Enduring Spells
+- 3: Greater Enduring Spells/Ever Ready
+- 4: Improved Critical (Mythical): Rapier
+- 5: Ever Ready
+- 6: Extra Mythic Ability: Second Spirit: Nature, Animal Companion - Wolf/Dog
+- 7: Mythical Beast
+- 8: 2 Weapon Fighting (Mythic)
+- 9: Last Stand 
+- 10:Weapon Focus (Mythic): Rapier
 #### Hexes
-* 2: Evil Eye or \[on Difficulty Core and Above\] Protective Luck
-* 4: Whatever you didn't take above
-* 8: Fortune
-* 10: Chant
-* 12: Battlemaster
-* 16: Secret: Metamagic: Extend Spell
+- 2: Evil Eye or \[on Difficulty Core and Above\] Protective Luck
+- 4: Whatever you didn't take above
+- 8: Fortune
+- 10: Chant
+- 12: Battlemaster
+- 16: Secret: Metamagic: Extend Spell
 #### Shaman Spells
-* 1: Cure Light Wounds, Bless, Unbreakable Heart (Confusion removal!)
-* 2: Barkskin
-* 3: Resist Energy Communal
-* 4: Divine Power, Protection From Energy Communal, False Life Greater
-* 5: Animal Growth, Breath of Life, Aspect of the Wolf, Cave Fangs
-* 6: Mass Animal Buffs (Bull, Bear, etc), True Seeing, Communal, Stoneskin Communal
-* 7: Legendary Proportions, Ice Body, Creeping Doom
-* 8: Seamantle, EXTENDED Legendary Proportions & Creeping Doom
-* 9: Heal Mass, Foresight, Shapechange
+- 1: Cure Light Wounds, Bless, Unbreakable Heart (Confusion removal!)
+- 2: Barkskin
+- 3: Resist Energy Communal
+- 4: Divine Power, Protection From Energy Communal, False Life Greater
+- 5: Animal Growth, Breath of Life, Aspect of the Wolf, Cave Fangs
+- 6: Mass Animal Buffs (Bull, Bear, etc), True Seeing, Communal, Stoneskin Communal
+- 7: Legendary Proportions, Ice Body, Creeping Doom
+- 8: Seamantle, EXTENDED Legendary Proportions & Creeping Doom
+- 9: Heal Mass, Foresight, Shapechange
 #### Alchemist Spells
-* 1: Shield, True Strike
+- 1: Shield, True Strike
 #### GEAR
-* Amulet: Voracious Spirit (When Bone Amulet is removed)
-* Armor: Snakeskin/WebStrider/Mantle of Light/Chainmail of Comradery or ...Nothing
-* Robe: Wandering Conman, Hag's Demise
-* Belt: Dex belts then Physical Perfection +6
-* Gloves: Fencer's Gift, Gloves of Deathdealer, Gloves of Phlebotomy (Treasure Island DLC)
-* Boots: Ronneck's Sacrifice, Spirit Trackers
-* Helmet: Headbands to Increase Wisdom 
-* Googles: Rascal's Googles
-* Cloak: Wrath of the Undead, Cloak of Resistance
-* Rings: Ring of Evasion & Bane Of Spirit(all damage transformed in Force Damage for everyone as a free action)
-* Bracers: Bracers of Armor +8, Bracers of Heavy Hand, Bracers of Breaching, Bracers of Abrupt Onslaught
-* RAPIERS: Best in Slot: Translucent Needle of Astonishment <details><summary>Spoiler</summary> Kill Horgus after Chapter 1</details> Interceptor, Holy Rapier, Finnean, Mind Piercer
-* Quick Slots: Devil Imp, Quicken Metamagic Rod (for Mass Heal), Jharsygax
+- Amulet: Voracious Spirit (When Bone Amulet is removed)
+- Armor: Snakeskin/WebStrider/Mantle of Light/Chainmail of Comradery or ...Nothing
+- Robe: Wandering Conman, Hag's Demise
+- Belt: Dex belts then Physical Perfection +6
+- Gloves: Fencer's Gift, Gloves of Deathdealer, Gloves of Phlebotomy (Treasure Island DLC)
+- Boots: Ronneck's Sacrifice, Spirit Trackers
+- Helmet: Headbands to Increase Wisdom 
+- Googles: Rascal's Googles
+- Cloak: Wrath of the Undead, Cloak of Resistance
+- Rings: Ring of Evasion & Bane Of Spirit(all damage transformed in Force Damage for everyone as a free action)
+- Bracers: Bracers of Armor +8, Bracers of Heavy Hand, Bracers of Breaching, Bracers of Abrupt Onslaught
+- RAPIERS: Best in Slot: Translucent Needle of Astonishment <details><summary>Spoiler</summary> Kill Horgus after Chapter 1</details> Interceptor, Holy Rapier, Finnean, Mind Piercer
+- Quick Slots: Devil Imp, Quicken Metamagic Rod (for Mass Heal), Jharsygax
 
 #### Notes
-* Position her at the REAR of the Formation 
+- Position her at the REAR of the Formation 
 ### Seelah
 
 #### Stats 
@@ -154,86 +163,86 @@ All to CHA
 
 #### Feats and Classes
 Paladin to 20  
-* 3: Combat Reflexes 
-* 5: Power Attack or (Unfair)Weapon Focus > Scimitar or Longsword // Animal Companion > Horse
-* 7: Outflank
-* 9: Improved Critical > Scimitar or Longsword 
-* 11: Weapon Focus > Scimitar or Longsword or Power Attack
-* 13: Dazzling Display
-* 15: Shatter Defenses
-* 17: Improved Initiative
-* 18: Mercy - 
-* 19: Blind Fight
+- 3: Combat Reflexes 
+- 5: Power Attack or (Unfair)Weapon Focus > Scimitar or Longsword // Animal Companion > Horse
+- 7: Outflank
+- 9: Improved Critical > Scimitar or Longsword 
+- 11: Weapon Focus > Scimitar or Longsword or Power Attack
+- 13: Dazzling Display
+- 15: Shatter Defenses
+- 17: Improved Initiative
+- 18: Mercy - 
+- 19: Blind Fight
 #### Mythic Path
-* 1: Leading Strike or Last Stand
-* 2: Extra Mythic Ability > Ever Ready
-* 3: Inspirational Leader
-* 4: Improved Critical (Mythic) > Scimitar or Longsword
-* 5: Mythical Beast or Abundant Casting or Abundant Smite or Mythic Charge (if Skald in Party)
-* 6: Power Attack (Mythic)
-* 7: Mythic Charge (if Skald in Party or Abundant Casting or Abundant Smite or Always a Chance (if not Trickster) or Thundering Blows or Last Stand
-* 8: Improved Initiative (mythic)
-* 9: Last Stand or Any of the "or" options from before
-* 10: Any or Flawless Attacks or Weapon Specialication (Mythic) or Weapon Focus (Mythic) if Multiclassed
+- 1: Leading Strike or Last Stand
+- 2: Extra Mythic Ability > Ever Ready
+- 3: Inspirational Leader
+- 4: Improved Critical (Mythic) > Scimitar or Longsword
+- 5: Mythical Beast or Abundant Casting or Abundant Smite or Mythic Charge (if Skald in Party)
+- 6: Power Attack (Mythic)
+- 7: Mythic Charge (if Skald in Party or Abundant Casting or Abundant Smite or Always a Chance (if not Trickster) or Thundering Blows or Last Stand
+- 8: Improved Initiative (mythic)
+- 9: Last Stand or Any of the "or" options from before
+- 10: Any or Flawless Attacks or Weapon Specialication (Mythic) or Weapon Focus (Mythic) if Multiclassed
 #### Mercies
-* 3: Fatigued
-* 6: Diseased
-* 7: Confused
-* 12: Cursed 
-* 15: Stunned or Staggered
-* 18: Staggered or Any
+- 3: Fatigued
+- 6: Diseased
+- 7: Confused
+- 12: Cursed 
+- 15: Stunned or Staggered
+- 18: Staggered or Any
 #### Spells
-* 01: Veil of Heaven / Veil of Positive Energy / Bless Weapon / Divine Favor
-* 02: Aura of Greater Courage / Bestow Grace
-* 03: Any / Greater Magic Weapon
-* 04: Eaglesoul / Holy Sword
+- 01: Veil of Heaven / Veil of Positive Energy / Bless Weapon / Divine Favor
+- 02: Aura of Greater Courage / Bestow Grace
+- 03: Any / Greater Magic Weapon
+- 04: Eaglesoul / Holy Sword
 #### Gear
-* Neck: Amulet of Combat Awareness
-* Chest: Chainmail of Comradery or Mithral Plate or Mithral Full Plate or Any
-* Shirt: Cloth of Heavy Fortification
-* Belt: STR + CON > Physical Perfection
-* Gloves: Dashing Cavalier's Glove or or Star Embroidered Gloves or Fencer's Gift if Fighter Dip
-* Boots: Boots of Freest Rein
-* Helmet: +CHA > Hat of the Bitter End
-* Goggles: Broken Trickster
-* Cloak: Call to Violence
-* Ring 1: Clemency of Shadows
-* Ring 2: Righteous Crusader's Ring
-* Bracer: Bracers of Breaching or Righteous Exorcist's Bracers
-* Weapon - Scimitar: Dawnflower's
-* Weapon - Longsword: Radiance
-* Weapon - Before Mount: Glaive
-* Quick Slot: Old Grimoire, Aroden's Wrath, Support Scrolls (Heal, Heal, Mass, Resurrection, Raise Dead, Restoration, Lesser and Greater)
+- Neck: Amulet of Combat Awareness
+- Chest: Chainmail of Comradery or Mithral Plate or Mithral Full Plate or Any
+- Shirt: Cloth of Heavy Fortification
+- Belt: STR + CON > Physical Perfection
+- Gloves: Dashing Cavalier's Glove or or Star Embroidered Gloves or Fencer's Gift if Fighter Dip
+- Boots: Boots of Freest Rein
+- Helmet: +CHA > Hat of the Bitter End
+- Goggles: Broken Trickster
+- Cloak: Call to Violence
+- Ring 1: Clemency of Shadows
+- Ring 2: Righteous Crusader's Ring
+- Bracer: Bracers of Breaching or Righteous Exorcist's Bracers
+- Weapon - Scimitar: Dawnflower's
+- Weapon - Longsword: Radiance
+- Weapon - Before Mount: Glaive
+- Quick Slot: Old Grimoire, Aroden's Wrath, Support Scrolls (Heal, Heal, Mass, Resurrection, Raise Dead, Restoration, Lesser and Greater)
 ### Lann 
 
 #### Stats
-* 4: +1 DEX
-* 8: +1 STR to round stats out
-* 12: +1 DEX
-* 16: +1 DEX
-* 18: +1 INT or WIS to round stats out
+- 4: +1 DEX
+- 8: +1 STR to round stats out
+- 12: +1 DEX
+- 16: +1 DEX
+- 18: +1 INT or WIS to round stats out
 #### Skills
 
 #### Feats and Classes
-* 2: Demonslayer
-* 3: Demonslayer \- Deadly Aim (Or Improved Initiative, Unfair difficulty), Bonus Feat - Precise Shot
-* 4: Demonslayer \- Favored Terrain: Urban
-* 5: Demonslayer \- Pet - (Wolf/Dog best), Feat - Boon Companion (after selecting pet first, unable to pick boon until you do.)
-* 6: Demonslayer 
-* 7: Demonslayer \- Outflank, Point Blank Master - Longbow
-* 8: Demonslayer 
-* 9: Demonslayer \- Snap Shot, Favored Terrain: Underground
-* 10: Demonslayer
-* 11: Demonslayer \- Select any normal feat first, then select Rapid Shot as a bonus feat, then go back to change your normal feat to Improved Snap Shot
-* 12: Demonslayer
-* 13: Demonslayer \- Greater Snap Shot (Or Improved Critical Longbow if you want it early)
-* 14: Gendarme \- Order of the Cockatrice, Weapon Focus: Longbow
-* 15: Gendarme \- Shatter Defenses
-* 16: Demonslayer \- Favored Terrain: Abyss
-* 17: Demonslayer \- Deadly Aim/Improved Initiative (whichever you didn't pick at level 3), Improved Critical Longbow
-* 18: Demonslayer
-* 19: Many options, but Demonslayer recommended \- Manyshot\/Improved Precise Shot\/Clustered Shots
-* 20: Gendarme 
+- 2: Demonslayer
+- 3: Demonslayer \- Deadly Aim (Or Improved Initiative, Unfair difficulty), Bonus Feat - Precise Shot
+- 4: Demonslayer \- Favored Terrain: Urban
+- 5: Demonslayer \- Pet - (Wolf/Dog best), Feat - Boon Companion (after selecting pet first, unable to pick boon until you do.)
+- 6: Demonslayer 
+- 7: Demonslayer \- Outflank, Point Blank Master - Longbow
+- 8: Demonslayer 
+- 9: Demonslayer \- Snap Shot, Favored Terrain: Underground
+- 10: Demonslayer
+- 11: Demonslayer \- Select any normal feat first, then select Rapid Shot as a bonus feat, then go back to change your normal feat to Improved Snap Shot
+- 12: Demonslayer
+- 13: Demonslayer \- Greater Snap Shot (Or Improved Critical Longbow if you want it early)
+- 14: Gendarme \- Order of the Cockatrice, Weapon Focus: Longbow
+- 15: Gendarme \- Shatter Defenses
+- 16: Demonslayer \- Favored Terrain: Abyss
+- 17: Demonslayer \- Deadly Aim/Improved Initiative (whichever you didn't pick at level 3), Improved Critical Longbow
+- 18: Demonslayer
+- 19: Many options, but Demonslayer recommended \- Manyshot\/Improved Precise Shot\/Clustered Shots
+- 20: Gendarme 
 #### Mythic Path
 
 #### Spells
@@ -243,36 +252,36 @@ Paladin to 20
 ### Woljif
 
 #### Stats
-* 4: +1 DEX
-* 8: +1 DEX
-* 12: +1 DEX
-* 16: +1 DEX
-* 18: +1 CON 
+- 4: +1 DEX
+- 8: +1 DEX
+- 12: +1 DEX
+- 16: +1 DEX
+- 18: +1 CON 
 
 #### Skills 
-* Mobility 
-* Trickery 
-* Stealth 
-* Perception Use Magic Device
+- Mobility 
+- Trickery 
+- Stealth 
+- Perception Use Magic Device
 
 #### Feats and Classes
-* 4: Eldrich Scoundrel  Debilitating Injury, Mirror Image
-* 5: Vivisectionist - Combat Reflexes - Shield, Enlarge
-* 6: Vivisectionist - Infusion
-* 7: Vivisectionist - Outflank
-* 8: Vivisectionist - Combat Trick - Improved Two Weapon Fighting, Animal Aspect
-* 9:  Vivisectionist - Piranha Strike, False Life or Blur
-* 10 - Vivisectionist - Combat Trick - Weapon Focus - Dagger, Any spell desired
-* 11 - Vivisectionist - Improved Critical - Dagger, Haste (or Protection from Arrows)
-* 12 - Vivisectionist - Combat Trick - Dazzling Display
-* 13 - Vivisectionist - Shatter Defenses, Rage
-* 14 - Vivisectionist - Dispelling Attack, Echolocation
-* 15 - Vivisectionist - Greater Two Weapon Fighting, Greater False Life/Greater Invisibility
-* 16 - Vivisectionist - Greater Mutagen
-* 17 - Vivisectionist - Improved Initiative, Any spell
-* 18 - Vivisectionist - Feral Mutagen
-* 19 - Vivisectionist - Any feat, but video chooses Arcane Strike
-* 20 - Vivisectionist - Grant Mutagen, Transformation
+- 4: Eldrich Scoundrel  Debilitating Injury, Mirror Image
+- 5: Vivisectionist - Combat Reflexes - Shield, Enlarge
+- 6: Vivisectionist - Infusion
+- 7: Vivisectionist - Outflank
+- 8: Vivisectionist - Combat Trick - Improved Two Weapon Fighting, Animal Aspect
+- 9:  Vivisectionist - Piranha Strike, False Life or Blur
+- 10 - Vivisectionist - Combat Trick - Weapon Focus - Dagger, Any spell desired
+- 11 - Vivisectionist - Improved Critical - Dagger, Haste (or Protection from Arrows)
+- 12 - Vivisectionist - Combat Trick - Dazzling Display
+- 13 - Vivisectionist - Shatter Defenses, Rage
+- 14 - Vivisectionist - Dispelling Attack, Echolocation
+- 15 - Vivisectionist - Greater Two Weapon Fighting, Greater False Life/Greater Invisibility
+- 16 - Vivisectionist - Greater Mutagen
+- 17 - Vivisectionist - Improved Initiative, Any spell
+- 18 - Vivisectionist - Feral Mutagen
+- 19 - Vivisectionist - Any feat, but video chooses Arcane Strike
+- 20 - Vivisectionist - Grant Mutagen, Transformation
 
 #### Mythic Path
 Mythic 1 - Abundant Casting (or Last Stand if Unfair), Ever ready, Pounce/Unrelenting Assault/Archmage Armor,
@@ -307,7 +316,7 @@ Quickslots - Extend Metamagic Rods, Imp Familar, Scrolls
 
 Skills: Use Magic Device // Knowledge (World) // Persuasion 
 04: Witch, +CHA (Hard and Below) Hex:Evil Eye // (Unfair) Hex:Protective Luck 
-05: Witch, Feat: MetaMagic Heighten Spell 
+05: Witch, Feat: MetaMagic Heighten Spell
 06: Witch, Hex:Cackle
 07: Witch, Spell Penetration
 08: Witch, +CHA  Hex:Fortune
@@ -329,7 +338,7 @@ Nenio Build – Eldritch Knight/Loremaster
 
 Skills: Knowledge(Arcana), Knowledge(World), Lore(Nature), UMD, Lore(Religion)+ perception when you get more
 
-* s:
+- s:
 04: Scroll Savant +INT (until lvl20)[Grease, Glitterdust]
 05: Scroll Savant - Martial Weapon Proficiency (requirement for Eldritch Knight) [Haste, Heroism (Displacement valid choice for Illusion slot)]
 06: Eldritch Knight – Improved Initiative\
@@ -451,7 +460,7 @@ Quick Slot:
 Daeran
 Skills: Persuasion, UMD (arcane scrolls), any left over to Perception
 
-* s:
+- s:
 04: +CON (then all CHA); Spell - Bulls Strength
 05: Weapon Finesse; Spells – Divine Favour, Aid
 06: Spell – Prayer
