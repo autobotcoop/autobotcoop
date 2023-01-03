@@ -99,7 +99,7 @@ Shaman until level 17
 * 18: Loremaster 2: Boon Companion, Rogue Secret: Opportunist
 * 19: Loremaster 3: Improved Initiative
 * 20: Vivisectionist
-#### Mythic Path:
+#### Mythic Path
 * 1: Enduring Spells/(Last Stand for Unfair)
 * 2: Weapon Finesse (Mythic)/Greater Enduring Spells
 * 3: Greater Enduring Spells/Ever Ready
@@ -127,7 +127,7 @@ Shaman until level 17
 * 7: Legendary Proportions, Ice Body, Creeping Doom
 * 8: Seamantle, EXTENDED Legendary Proportions & Creeping Doom
 * 9: Heal Mass, Foresight, Shapechange
-#### Alchemist Spells:
+#### Alchemist Spells
 * 1: Shield, True Strike
 #### GEAR
 * Amulet: Voracious Spirit (When Bone Amulet is removed)
@@ -206,7 +206,7 @@ Paladin to 20
 
 #### Feats and Classes
 * 2: Demonslayer
-* 3:  Deadly Aim (Or Improved Initiative, Unfair difficulty), Bonus Feat - Precise Shot
+* 3: Demonslayer \- Deadly Aim (Or Improved Initiative, Unfair difficulty), Bonus Feat - Precise Shot
  Demonslayer - +1 DEX, Favored Terrain: Urban
 Level 5 - Demonslayer - Pet - (Wolf/Dog best), Feat - Boon Companion (after selecting pet first, unable to pick boon until you do.)
 Level 6 - Demonslayer - 
