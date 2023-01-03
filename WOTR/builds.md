@@ -12,11 +12,11 @@
       - [Spells To be Added](#spells-to-be-added)
       - [Hexes To be Added](#hexes-to-be-added)
       - [Mythic Path to be Added](#mythic-path-to-be-added)
-      - [Notes:](#notes)
+      - [Notes](#notes)
   - [Companion Builds](#companion-builds)
     - [Camella](#camella)
-      - [Stats:](#stats)
-      - [Skills:](#skills)
+      - [Stats](#stats)
+      - [Skills](#skills)
       - [Feats and Classes](#feats-and-classes)
       - [Mythic Path:](#mythic-path)
       - [Hexes](#hexes)
@@ -33,12 +33,9 @@
 ## Main Character Builds
 
 ### Holy Spirit (Shaman Spirit Warden & Angel Mythic Path)
-
 Credit: [Mortismal Gaming](https://www.youtube.com/@MortismalGaming)
-
 #### Species: Human
 Background: Oblate, Acolyte
- 
 #### Stats
 * STR 10
 * DEX 18
@@ -46,21 +43,17 @@ Background: Oblate, Acolyte
 * INT 10
 * WIS 18
 * CHA 7
- 
 #### Skills
 * Lore, Nature
 * Lore, Religion
 * Persuasion
- 
- #### Hexes and Misc:
+ #### Misc
 * Spirit: Wind
 * Familiar: Lizard
 * Deity: Phrasma
 * Alignment: Neutral Good
- 
-#### Feats and Classes (Dual Wield Dagger): 
-**Spirit Warden all the Way**
-
+#### Feats and Classes (Dual Wield Dagger Version) 
+Spirit Warden to 20
 * 1: Blind Fighting & Weapon Finesse
 * 3: Two Weapon Fighting 
 * 5: Weapon Focus: Dagger 
@@ -71,32 +64,26 @@ Background: Oblate, Acolyte
 * 15: Greater Two Weapon Fighting
 * 17: Piranha Strike 
 * 19: Critical Focus
+#### Mythic Path to be Added 
 
 #### Spells To be Added 
 
 #### Hexes To be Added
 
-#### Mythic Path to be Added 
-
-#### Notes: 
+#### Notes
 Prologue and early chapter 1 can be rough. I recommend using a long spear until you find Crypt Raider's Mail in the Prologue and can afford to buy Icy Protector from \[Vendor\] in Defender's Heart in chapter 1.  
-
 ## Companion Builds
 
 ### Camella
 Credit: [CRPG Bro](https://www.youtube.com/@cRPGBro)
-
-#### Stats:
+#### Stats
 * Increase Dex
-
-#### Skills: 
+#### Skills
 * Trickery 
 * Stealth 
 * Perception
-
 #### Feats and Classes
-**Shaman until level 17**
-
+Shaman until level 17
 * 3: Combat Reflexes
 * 5: Two Weapon Fighting (Rapier+Dagger until level 9---->2 Rapiers)
 * 6: Skills
@@ -112,7 +99,6 @@ Credit: [CRPG Bro](https://www.youtube.com/@cRPGBro)
 * 18: Loremaster 2: Boon Companion, Rogue Secret: Opportunist
 * 19: Loremaster 3: Improved Initiative
 * 20: Vivisectionist
-
 #### Mythic Path:
 * 1: Enduring Spells/(Last Stand for Unfair)
 * 2: Weapon Finesse (Mythic)/Greater Enduring Spells
@@ -124,7 +110,6 @@ Credit: [CRPG Bro](https://www.youtube.com/@cRPGBro)
 * 8: 2 Weapon Fighting (Mythic)
 * 9: Last Stand 
 * 10:Weapon Focus (Mythic): Rapier
-
 #### Hexes
 * 2: Evil Eye or \[on Difficulty Core and Above\] Protective Luck
 * 4: Whatever you didn't take above
@@ -132,7 +117,6 @@ Credit: [CRPG Bro](https://www.youtube.com/@cRPGBro)
 * 10: Chant
 * 12: Battlemaster
 * 16: Secret: Metamagic: Extend Spell
-
 #### Shaman Spells
 * 1: Cure Light Wounds, Bless, Unbreakable Heart (Confusion removal!)
 * 2: Barkskin
@@ -143,11 +127,8 @@ Credit: [CRPG Bro](https://www.youtube.com/@cRPGBro)
 * 7: Legendary Proportions, Ice Body, Creeping Doom
 * 8: Seamantle, EXTENDED Legendary Proportions & Creeping Doom
 * 9: Heal Mass, Foresight, Shapechange
-
-
 #### Alchemist Spells:
 * 1: Shield, True Strike
-
 #### GEAR
 * Amulet: Voracious Spirit (When Bone Amulet is removed)
 * Armor: Snakeskin/WebStrider/Mantle of Light/Chainmail of Comradery or ...Nothing
@@ -165,72 +146,67 @@ Credit: [CRPG Bro](https://www.youtube.com/@cRPGBro)
 
 #### Notes
 * Position her at the REAR of the Formation 
-
 ### Seelah
 
 #### Stats 
 All to CHA
-
 #### Feats and Classes
 Paladin to 20  
-* 3: Combat Reflexes Mercy - Fatigued
+* 3: Combat Reflexes 
 * 5: Power Attack or (Unfair)Weapon Focus > Scimitar or Longsword // Animal Companion > Horse
-* 6: Mercy - Diseased
 * 7: Outflank
-* 9: Improved Critical > Scimitar or Longsword // Mercy - Confused
+* 9: Improved Critical > Scimitar or Longsword 
 * 11: Weapon Focus > Scimitar or Longsword or Power Attack
-* 12: Mercy - Cursed 
 * 13: Dazzling Display
-* 15: Shatter Defenses // Mercy - Stunned or Staggered
+* 15: Shatter Defenses
 * 17: Improved Initiative
-* 18: Mercy - Staggered or Any
+* 18: Mercy - 
 * 19: Blind Fight
-
-Mythic:
-
-01: Leading Strike or Last Stand
-02: Extra Mythic Ability > Ever Ready
-03: Inspirational Leader
-04: Improved Critical (Mythic) > Scimitar or Longsword
-05: Mythical Beast or Abundant Casting or Abundant Smite or Mythic Charge (if Skald in Party)
-06: Power Attack (Mythic)
-07: Mythic Charge (if Skald in Party or Abundant Casting or Abundant Smite or Always a Chance (if not Trickster) or Thundering Blows or Last Stand
-08: Improved Initiative (mythic)
-09: Last Stand or Any of the "or" options from before
-10: Any or Flawless Attacks or Weapon Specialication (Mythic) or Weapon Focus (Mythic) if Multiclassed
-
-Recommended Spells:
-
-01: Veil of Heaven / Veil of Positive Energy / Bless Weapon / Divine Favor
-02: Aura of Greater Courage / Bestow Grace
-03: Any / Greater Magic Weapon
-04: Eaglesoul / Holy Sword
-
-Gear:
-
-Neck: Amulet of Combat Awareness
-Chest: Chainmail of Comradery or Mithral Plate or Mithral Full Plate or Any
-Shirt: Cloth of Heavy Fortification
-Belt: STR + CON > Physical Perfection
-Gloves: Dashing Cavalier's Glove or or Star Embroidered Gloves or Fencer's Gift if Fighter Dip
-Boots: Boots of Freest Rein
-Helmet: +CHA > Hat of the Bitter End
-Goggles: Broken Trickster
-Cloak: Call to Violence
-Ring 1: Clemency of Shadows
-Ring 2: Righteous Crusader's Ring
-Bracer: Bracers of Breaching or Righteous Exorcist's Bracers
-
-Weapon - Scimitar: Dawnflower's
-Weapon - Longsword: Radiance
-Weapon - Before Mount: Glaive
-
-Quick Slot: Old Grimoire, Aroden's Wrath, Support Scrolls (Heal, Heal, Mass, Resurrection, Raise Dead, Restoration, Lesser and Greater)
-
-Lann 
-Level 2 - Demonslayer
-Level 3 - Demonslayer - Deadly Aim (Or Improved Initiative, Unfair difficulty), Bonus Feat - Precise Shot
-Level 4 - Demonslayer - +1 DEX, Favored Terrain: Urban
+#### Mythic Path
+* 1: Leading Strike or Last Stand
+* 2: Extra Mythic Ability > Ever Ready
+* 3: Inspirational Leader
+* 4: Improved Critical (Mythic) > Scimitar or Longsword
+* 5: Mythical Beast or Abundant Casting or Abundant Smite or Mythic Charge (if Skald in Party)
+* 6: Power Attack (Mythic)
+* 7: Mythic Charge (if Skald in Party or Abundant Casting or Abundant Smite or Always a Chance (if not Trickster) or Thundering Blows or Last Stand
+* 8: Improved Initiative (mythic)
+* 9: Last Stand or Any of the "or" options from before
+* 10: Any or Flawless Attacks or Weapon Specialication (Mythic) or Weapon Focus (Mythic) if Multiclassed
+#### Mercies
+* 3: Fatigued
+* 6: Diseased
+* 7: Confused
+* 12: Cursed 
+* 15: Stunned or Staggered
+* 18: Staggered or Any
+#### Spells:
+* 01: Veil of Heaven / Veil of Positive Energy / Bless Weapon / Divine Favor
+* 02: Aura of Greater Courage / Bestow Grace
+* 03: Any / Greater Magic Weapon
+* 04: Eaglesoul / Holy Sword
+#### Gear:
+* Neck: Amulet of Combat Awareness
+* Chest: Chainmail of Comradery or Mithral Plate or Mithral Full Plate or Any
+* Shirt: Cloth of Heavy Fortification
+* Belt: STR + CON > Physical Perfection
+* Gloves: Dashing Cavalier's Glove or or Star Embroidered Gloves or Fencer's Gift if Fighter Dip
+* Boots: Boots of Freest Rein
+* Helmet: +CHA > Hat of the Bitter End
+* Goggles: Broken Trickster
+* Cloak: Call to Violence
+* Ring 1: Clemency of Shadows
+* Ring 2: Righteous Crusader's Ring
+* Bracer: Bracers of Breaching or Righteous Exorcist's Bracers
+* Weapon - Scimitar: Dawnflower's
+* Weapon - Longsword: Radiance
+* Weapon - Before Mount: Glaive
+* Quick Slot: Old Grimoire, Aroden's Wrath, Support Scrolls (Heal, Heal, Mass, Resurrection, Raise Dead, Restoration, Lesser and Greater)
+### Lann 
+#### Feats and Classes
+* 2: Demonslayer
+* 3:  Deadly Aim (Or Improved Initiative, Unfair difficulty), Bonus Feat - Precise Shot
+ Demonslayer - +1 DEX, Favored Terrain: Urban
 Level 5 - Demonslayer - Pet - (Wolf/Dog best), Feat - Boon Companion (after selecting pet first, unable to pick boon until you do.)
 Level 6 - Demonslayer - 
 Level 7 - Demonslayer - Outflank, Point Blank Master - Longbow
