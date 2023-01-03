@@ -56,41 +56,54 @@ Background: Oblate, Acolyte
 - Lore, Religion
 - Persuasion
 
- #### Misc
+#### Misc
+
 - Spirit: Wind
 - Familiar: Lizard
 - Deity: Phrasma
 - Alignment: Neutral Good
-#### Feats and Classes (Dual Wield Dagger Version) 
+
+#### Feats and Classes (Dual Wield Dagger Version)
+
 Spirit Warden to 20
+
 - 1: Blind Fighting & Weapon Finesse
 - 3: Two Weapon Fighting
 - 5: Weapon Focus: Dagger
 - 7: Fencing Grace: Dagger
 - 9: Improved Two Weapon Fighting
 - 11: Hammer the Gap
-- 13: Improved Critical Dagger 
+- 13: Improved Critical Dagger
 - 15: Greater Two Weapon Fighting
-- 17: Piranha Strike 
+- 17: Piranha Strike
 - 19: Critical Focus
-#### Mythic Path to be Added 
 
-#### Spells To be Added 
+#### Mythic Path to be Added
+
+#### Spells To be Added
 
 #### Hexes To be Added
 
 #### Notes
+
 Prologue and early chapter 1 can be rough. I recommend using a long spear until you find Crypt Raider's Mail in the Prologue and can afford to buy Icy Protector from \[Vendor\] in Defender's Heart in chapter 1.  
+
 ## Companion Builds
 
 ### Camella
+
 Credit: [CRPG Bro](https://www.youtube.com/@cRPGBro)
+
 #### Stats
+
 - Increase Dex
+
 #### Skills
+
 - Trickery
 - Stealth
 - Perception
+
 #### Feats and Classes
 Shaman until level 17
 - 3: Combat Reflexes
