@@ -203,6 +203,7 @@ Paladin to 20
 * Weapon - Before Mount: Glaive
 * Quick Slot: Old Grimoire, Aroden's Wrath, Support Scrolls (Heal, Heal, Mass, Resurrection, Raise Dead, Restoration, Lesser and Greater)
 ### Lann 
+
 #### Feats and Classes
 * 2: Demonslayer
 * 3:  Deadly Aim (Or Improved Initiative, Unfair difficulty), Bonus Feat - Precise Shot
