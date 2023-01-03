@@ -242,6 +242,13 @@ Paladin to 20
 
 ### Woljif
 
+#### Stats
+* 4: +1 DEX
+* 8: +1 DEX
+* 12: +1 DEX
+* 16: +1 DEX
+* 18: +1 CON 
+
 #### Skills 
 * Mobility 
 * Trickery 
@@ -249,23 +256,23 @@ Paladin to 20
 * Perception Use Magic Device
 
 #### Feats and Classes
-Level 4 - Eldrich Scoundrel - +1 DEX, Debilitating Injury, Mirror Image
-Level 5 - Vivisectionist - Combat Reflexes - Shield, Enlarge
-Level 6 - Vivisectionist - Infusion
-Level 7 - Vivisectionist - Outflank
-Level 8 - Vivisectionist - +1 DEX, Combat Trick - Improved Two Weapon Fighting, Animal Aspect
-Level 9 - Vivisectionist - Piranha Strike, False Life or Blur
-Level 10 - Vivisectionist - Combat Trick - Weapon Focus - Dagger, Any spell desired
-Level 11 - Vivisectionist - Improved Critical - Dagger, Haste (or Protection from Arrows)
-Level 12 - Vivisectionist - +1 DEX, Combat Trick - Dazzling Display
-Level 13 - Vivisectionist - Shatter Defenses, Rage
-Level 14 - Vivisectionist - Dispelling Attack, Echolocation
-Level 15 - Vivisectionist - Greater Two Weapon Fighting, Greater False Life/Greater Invisibility
-Level 16 - Vivisectionist - +1 DEX, Greater Mutagen
-Level 17 - Vivisectionist - Improved Initiative, Any spell
-Level 18 - Vivisectionist - Feral Mutagen
-Level 19 - Vivisectionist - Any feat, but video chooses Arcane Strike
-Level 20 - Vivisectionist - +1 CON. Grant Mutagen, Transformation
+* 4: Eldrich Scoundrel  Debilitating Injury, Mirror Image
+* 5: Vivisectionist - Combat Reflexes - Shield, Enlarge
+* 6: Vivisectionist - Infusion
+* 7: Vivisectionist - Outflank
+* 8: Vivisectionist - Combat Trick - Improved Two Weapon Fighting, Animal Aspect
+* 9:  Vivisectionist - Piranha Strike, False Life or Blur
+* 10 - Vivisectionist - Combat Trick - Weapon Focus - Dagger, Any spell desired
+* 11 - Vivisectionist - Improved Critical - Dagger, Haste (or Protection from Arrows)
+* 12 - Vivisectionist - Combat Trick - Dazzling Display
+* 13 - Vivisectionist - Shatter Defenses, Rage
+* 14 - Vivisectionist - Dispelling Attack, Echolocation
+* 15 - Vivisectionist - Greater Two Weapon Fighting, Greater False Life/Greater Invisibility
+* 16 - Vivisectionist - Greater Mutagen
+* 17 - Vivisectionist - Improved Initiative, Any spell
+* 18 - Vivisectionist - Feral Mutagen
+* 19 - Vivisectionist - Any feat, but video chooses Arcane Strike
+* 20 - Vivisectionist - Grant Mutagen, Transformation
 
 #### Mythic Path
 Mythic 1 - Abundant Casting (or Last Stand if Unfair), Ever ready, Pounce/Unrelenting Assault/Archmage Armor,
@@ -296,7 +303,7 @@ Weapon 1 - Retrievers Claw
 Weapon 2 - Hasty Eradicator
 Quickslots - Extend Metamagic Rods, Imp Familar, Scrolls 
 
-Stigmitzied Witch Ember
+### Ember
 
 Skills: Use Magic Device // Knowledge (World) // Persuasion 
 04: Witch, +CHA (Hard and Below) Hex:Evil Eye // (Unfair) Hex:Protective Luck 
@@ -322,7 +329,7 @@ Nenio Build – Eldritch Knight/Loremaster
 
 Skills: Knowledge(Arcana), Knowledge(World), Lore(Nature), UMD, Lore(Religion)+ perception when you get more
 
-Levels:
+* s:
 04: Scroll Savant +INT (until lvl20)[Grease, Glitterdust]
 05: Scroll Savant - Martial Weapon Proficiency (requirement for Eldritch Knight) [Haste, Heroism (Displacement valid choice for Illusion slot)]
 06: Eldritch Knight – Improved Initiative\
@@ -441,10 +448,10 @@ Quick Slot:
 
 
 
-Daeran Build – Dual Wielder/Mounted - Written
+Daeran
 Skills: Persuasion, UMD (arcane scrolls), any left over to Perception
 
-Levels:
+* s:
 04: +CON (then all CHA); Spell - Bulls Strength
 05: Weapon Finesse; Spells – Divine Favour, Aid
 06: Spell – Prayer
@@ -496,13 +503,9 @@ Rings: Red Salamander & Ring of Evasion
 Bracers : Bracers of the Heavy Hand
 Weapons : Translucent Needle of Astonishment – Interceptor
 
-
-
 Quickslots:
 Devouring Lust
 Grandmasters Rod
 Greater Quicken Metamagic Rod
 Old Grimoire
 Signet of House Vespertilio - Persuasion
-
-
