@@ -150,6 +150,8 @@ Shaman until level 17
 
 #### Stats 
 All to CHA
+#### Skills
+
 #### Feats and Classes
 Paladin to 20  
 * 3: Combat Reflexes 
@@ -180,12 +182,12 @@ Paladin to 20
 * 12: Cursed 
 * 15: Stunned or Staggered
 * 18: Staggered or Any
-#### Spells:
+#### Spells
 * 01: Veil of Heaven / Veil of Positive Energy / Bless Weapon / Divine Favor
 * 02: Aura of Greater Courage / Bestow Grace
 * 03: Any / Greater Magic Weapon
 * 04: Eaglesoul / Holy Sword
-#### Gear:
+#### Gear
 * Neck: Amulet of Combat Awareness
 * Chest: Chainmail of Comradery or Mithral Plate or Mithral Full Plate or Any
 * Shirt: Cloth of Heavy Fortification
@@ -204,31 +206,49 @@ Paladin to 20
 * Quick Slot: Old Grimoire, Aroden's Wrath, Support Scrolls (Heal, Heal, Mass, Resurrection, Raise Dead, Restoration, Lesser and Greater)
 ### Lann 
 
+#### Stats
+* 4: +1 DEX
+* 8: +1 STR to round stats out
+* 12: +1 DEX
+* 16: +1 DEX
+* 18: +1 INT or WIS to round stats out
+#### Skills
+
 #### Feats and Classes
 * 2: Demonslayer
 * 3: Demonslayer \- Deadly Aim (Or Improved Initiative, Unfair difficulty), Bonus Feat - Precise Shot
- Demonslayer - +1 DEX, Favored Terrain: Urban
-Level 5 - Demonslayer - Pet - (Wolf/Dog best), Feat - Boon Companion (after selecting pet first, unable to pick boon until you do.)
-Level 6 - Demonslayer - 
-Level 7 - Demonslayer - Outflank, Point Blank Master - Longbow
-Level 8 - Demonslayer - +1 STR (to even stats out)
-Level 9 - Demonslayer - Snap Shot, Favored Terrain: Underground
-Level 10 - Demonslayer
-Level 11 - Demonslayer - Select any normal feat first, then select Rapid Shot as a bonus feat, then go back to change your normal feat to Improved Snap Shot
-Level 12 - Demonslayer - +1 DEX
-Level 13 - Demonslayer - Greater Snap Shot (Or Improved Critical Longbow if you want it early)
-Level 14 - Gendarme - Order of the Cockatrice, Weapon Focus: Longbow
-Level 15 - Gendarme - Shatter Defenses
-Level 16 - Demonslayer - +1 DEX, Favored Terrain: Abyss
-Level 17 - Demonslayer - Deadly Aim/Improved Initiative (whichever you didn't pick at level 3), Improved Critical Longbow
-Level 18 - Demonslayer
-Level 19 - Many options, but Demonslayer recommended - Manyshot/Improved Precise Shot/Clustered Shots
-Level 20 - Gendarme - +1 Int or Wis to round stats
+* 4: Demonslayer \- Favored Terrain: Urban
+* 5: Demonslayer \- Pet - (Wolf/Dog best), Feat - Boon Companion (after selecting pet first, unable to pick boon until you do.)
+* 6: Demonslayer 
+* 7: Demonslayer \- Outflank, Point Blank Master - Longbow
+* 8: Demonslayer 
+* 9: Demonslayer \- Snap Shot, Favored Terrain: Underground
+* 10: Demonslayer
+* 11: Demonslayer \- Select any normal feat first, then select Rapid Shot as a bonus feat, then go back to change your normal feat to Improved Snap Shot
+* 12: Demonslayer
+* 13: Demonslayer \- Greater Snap Shot (Or Improved Critical Longbow if you want it early)
+* 14: Gendarme \- Order of the Cockatrice, Weapon Focus: Longbow
+* 15: Gendarme \- Shatter Defenses
+* 16: Demonslayer \- Favored Terrain: Abyss
+* 17: Demonslayer \- Deadly Aim/Improved Initiative (whichever you didn't pick at level 3), Improved Critical Longbow
+* 18: Demonslayer
+* 19: Many options, but Demonslayer recommended \- Manyshot\/Improved Precise Shot\/Clustered Shots
+* 20: Gendarme 
+#### Mythic Path
 
+#### Spells
 
-Woljif
-Skills - Mobility, Trickery, Stealth, Perception, Use Magic Device
+#### Gear
 
+### Woljif
+
+#### Skills 
+* Mobility 
+* Trickery 
+* Stealth 
+* Perception Use Magic Device
+
+#### Feats and Classes
 Level 4 - Eldrich Scoundrel - +1 DEX, Debilitating Injury, Mirror Image
 Level 5 - Vivisectionist - Combat Reflexes - Shield, Enlarge
 Level 6 - Vivisectionist - Infusion
@@ -247,7 +267,7 @@ Level 18 - Vivisectionist - Feral Mutagen
 Level 19 - Vivisectionist - Any feat, but video chooses Arcane Strike
 Level 20 - Vivisectionist - +1 CON. Grant Mutagen, Transformation
 
-Mythic Levels
+#### Mythic Path
 Mythic 1 - Abundant Casting (or Last Stand if Unfair), Ever ready, Pounce/Unrelenting Assault/Archmage Armor,
 Mythic 2 - Mythic Two Weapon Fighting
 Mythic 3 - Ever Ready
@@ -259,7 +279,7 @@ Mythic 8 - Mythic Improved Initiative
 Mythic 9 - Last Stand
 Mythic 10 - Mythic Sneak Attacker/Weapon Focus/Any
 
-Gear
+#### Gear
 Amulet - Quick Draw/Combat Awareness (DLC item)
 Armor - None
 Shirt - Cloth of Heavy Fortification
