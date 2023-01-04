@@ -1,34 +1,5 @@
 Work in Progress
 
-Table of contents
-
-- [Character Builds](#character-builds)
-  - [Main Character Builds](#main-character-builds)
-    - [Holy Spirit (Shaman Spirit Warden & Angel Mythic Path)](#holy-spirit-shaman-spirit-warden--angel-mythic-path)
-      - [Species](#species)
-      - [Stats](#stats)
-      - [Skills](#skills)
-      - [Hexes and Misc](#hexes-and-misc)
-      - [Feats and Classes (Dual Wield Dagger)](#feats-and-classes-dual-wield-dagger)
-      - [Spells To be Added](#spells-to-be-added)
-      - [Hexes To be Added](#hexes-to-be-added)
-      - [Mythic Path to be Added](#mythic-path-to-be-added)
-      - [Notes](#notes)
-  - [Companion Builds](#companion-builds)
-    - [Camella](#camella)
-      - [Stats](#stats)
-      - [Skills](#skills)
-      - [Feats and Classes](#feats-and-classes)
-      - [Mythic Path:](#mythic-path)
-      - [Hexes](#hexes)
-      - [Shaman Spells](#shaman-spells)
-      - [Alchemist Spells](#alchemist-spells)
-      - [GEAR](#gear)
-      - [Notes](#notes)
-    - [Seelah](#seelah)
-      - [Stats](#stats)
-      - [Feats and Classes](#feats-and-classes)
-
 # Character Builds
 
 ## Main Character Builds
