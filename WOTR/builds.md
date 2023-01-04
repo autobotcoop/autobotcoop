@@ -557,7 +557,7 @@ Oracle to 20
 - Gloves: Fencer's Gift
 - Boots: Ronneck's Sacrifice
 - Helmet: Zaoris’s Beauty
-- Glasses: Goggles of Piercing Gaze
+- Goggles: Goggles of Piercing Gaze
 - Cloak: Cloak of Resistance +6
 - Ring 1: Red Salamander
 - Ring 2: Ring of Evasion
