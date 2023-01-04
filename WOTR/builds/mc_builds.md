@@ -49,11 +49,13 @@ Spirit Warden to 20
 - 17: Piranha Strike
 - 19: Critical Focus
 
+#### Hexes To be Added
+
 #### Mythic Path to be Added
 
 #### Spells To be Added
 
-#### Hexes To be Added
+#### Gear To Be Added
 
 #### Editor's Notes
 
