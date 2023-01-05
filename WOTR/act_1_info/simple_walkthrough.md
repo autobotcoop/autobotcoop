@@ -53,4 +53,4 @@ When ready, talk to Irebeth to trigger the Assault. The one warning about Gray G
 
 [Source](https://www.reddit.com/r/Pathfinder_Kingmaker/comments/pghsgm/spoilers_simplified_act_1_walkthrough_spoilers/)
 
-Editor's Note: fixed some formatting nd updated some info.
+Editor's Note: fixed some formatting and updated some info.
