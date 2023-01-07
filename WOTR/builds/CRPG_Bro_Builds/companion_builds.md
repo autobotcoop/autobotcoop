@@ -8,45 +8,7 @@ Notes
 
 ## [Seelah](https://docs.google.com/spreadsheets/d/1O-W1lVxF-n8eCHHziUrb0tB0TfekVf86ISUCZ0P2B-M/edit?usp=sharing)
 
-### Lann
-
-#### Stats
-
-- 4: +1 DEX
-- 8: +1 STR to round stats out
-- 12: +1 DEX
-- 16: +1 DEX
-- 18: +1 INT or WIS to round stats out
-
-#### Skills
-
-#### Feats and Classes
-
-- 02: Demonslayer
-- 03: Demonslayer - Deadly Aim (Or Improved Initiative, Unfair difficulty), Bonus Feat - Precise Shot
-- 04: Demonslayer - Favored Terrain: Urban
-- 05: Demonslayer - Pet - (Wolf/Dog best), Feat - Boon Companion (after selecting pet first, unable to pick boon until you do.)
-- 06: Demonslayer
-- 07: Demonslayer - Outflank, Point Blank Master - Longbow
-- 08: Demonslayer
-- 09: Demonslayer - Snap Shot, Favored Terrain: Underground
-- 10: Demonslayer
-- 11: Demonslayer - Select any normal feat first, then select Rapid Shot as a bonus feat, then go back to change your normal feat to Improved Snap Shot
-- 12: Demonslayer
-- 13: Demonslayer - Greater Snap Shot (Or Improved Critical Longbow if you want it early)
-- 14: Gendarme - Order of the Cockatrice, Weapon Focus: Longbow
-- 15: Gendarme - Shatter Defenses
-- 16: Demonslayer - Favored Terrain: Abyss
-- 17: Demonslayer - Deadly Aim/Improved Initiative (whichever you didn't pick at level 3), Improved Critical Longbow
-- 18: Demonslayer
-- 19: Many options, but Demonslayer recommended - Manyshot/Improved Precise Shot/Clustered Shots
-- 20: Gendarme
-
-#### Mythic Path
-
-#### Spells
-
-#### Gear
+### [Lann](https://docs.google.com/spreadsheets/d/1FfDyTse3rzTPSkq4pNplBKKDcg0QqErKaeewQbL33u0/edit?usp=sharing)
 
 ### Woljif
 
