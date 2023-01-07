@@ -1,80 +1,12 @@
 # [Youtube](https://www.youtube.com/@cRPGBro)
 
-## [Camella](https://docs.google.com/spreadsheets/d/e/2PACX-1vT1hAGED22h_B2rixQ2Y5BPkw3DmmfbGO7u3nmcVOJ2dvOKX52VnR1QNtCoQ2vC91Dp4mULOnizfgAc/pubhtml)
+## [Camella](https://docs.google.com/spreadsheets/d/1oYeMmuhUc-Ks1b_D3LwCMi38vaKeiJJN3MtC-7xBH_A/edit?usp=sharing)
 
 Notes
 
 - Position her at the REAR of the Formation
 
-## Seelah
-
-### Stats
-
-- All to CHA
-
-### Skills
-
-### Feats and Classes
-
-Paladin to 20
-
-- 03: Combat Reflexes
-- 05: Power Attack or (Unfair)Weapon Focus: Scimitar or Longsword, Animal Companion: Horse
-- 07: Outflank
-- 09: Improved Critical > Scimitar or Longsword
-- 11: Weapon Focus > Scimitar or Longsword or Power Attack
-- 13: Dazzling Display
-- 15: Shatter Defenses
-- 17: Improved Initiative
-- 19: Blind Fight
-
-### Mythic Path
-
-- 01: Leading Strike or Last Stand
-- 02: Extra Mythic Ability > Ever Ready
-- 03: Inspirational Leader
-- 04: Improved Critical (Mythic) > Scimitar or Longsword
-- 05: Mythical Beast or Abundant Casting or Abundant Smite or Mythic Charge (if Skald in Party)
-- 06: Power Attack (Mythic)
-- 07: Mythic Charge (if Skald in Party or Abundant Casting or Abundant Smite or Always a Chance (if not Trickster) or Thundering Blows or Last Stand
-- 08: Improved Initiative (mythic)
-- 09: Last Stand or Any of the "or" options from before
-- 10: Any or Flawless Attacks or Weapon Specialication (Mythic) or Weapon Focus (Mythic) if Multiclassed
-
-### Mercies
-
-- 03: Fatigued
-- 06: Diseased
-- 07: Confused
-- 12: Cursed
-- 15: Stunned or Staggered
-- 18: Staggered or Any
-
-### Spells
-
-- 01: Veil of Heaven / Veil of Positive Energy / Bless Weapon / Divine Favor
-- 02: Aura of Greater Courage / Bestow Grace
-- 03: Any / Greater Magic Weapon
-- 04: Eaglesoul / Holy Sword
-
-### Gear
-
-- Neck: Amulet of Combat Awareness
-- Chest: Chainmail of Comradery or Mithral Plate or Mithral Full Plate or Any
-- Shirt: Cloth of Heavy Fortification
-- Belt: STR + CON > Physical Perfection
-- Gloves: Dashing Cavalier's Glove or or Star Embroidered Gloves or Fencer's Gift if Fighter Dip
-- Boots: Boots of Freest Rein
-- Helmet: +CHA > Hat of the Bitter End
-- Goggles: Broken Trickster
-- Cloak: Call to Violence
-- Ring 1: Clemency of Shadows
-- Ring 2: Righteous Crusader's Ring
-- Bracer: Bracers of Breaching or Righteous Exorcist's Bracers
-- Weapon - Scimitar: Dawnflower's
-- Weapon - Longsword: Radiance
-- Weapon - Before Mount: Glaive
-- Quick Slot: Old Grimoire, Aroden's Wrath, Support Scrolls (Heal, Heal, Mass, Resurrection, Raise Dead, Restoration, Lesser and Greater)
+## [Seelah](https://docs.google.com/spreadsheets/d/1O-W1lVxF-n8eCHHziUrb0tB0TfekVf86ISUCZ0P2B-M/edit?usp=sharing)
 
 ### Lann
 
