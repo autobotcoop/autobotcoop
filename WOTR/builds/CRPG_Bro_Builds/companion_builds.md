@@ -1,18 +1,18 @@
-### Camella
+# [Youtube](https://www.youtube.com/@cRPGBro)
 
-Credit: [CRPG Bro](https://www.youtube.com/@cRPGBro)
+## Camella
 
-#### Stats
+### Stats
 
 - Increase Dex
 
-#### Skills
+### Skills
 
 - Trickery
 - Stealth
 - Perception
 
-#### Feats and Classes
+### Feats and Classes
 
 Shaman until level 17
 
@@ -32,11 +32,11 @@ Shaman until level 17
 - 19: Loremaster 3: Improved Initiative
 - 20: Vivisectionist
 
-#### Mythic Path
+### Mythic Path
 
-- 01: Enduring Spells/(Last Stand for Unfair)
-- 02: Weapon Finesse (Mythic)/Greater Enduring Spells
-- 03: Greater Enduring Spells/Ever Ready
+- 01: Enduring Spells or (Last Stand for Unfair)
+- 02: Weapon Finesse (Mythic) Greater Enduring Spells
+- 03: Greater Enduring Spells Ever Ready
 - 04: Improved Critical (Mythical): Rapier
 - 05: Ever Ready
 - 06: Extra Mythic Ability: Second Spirit: Nature, Animal Companion - Wolf/Dog
@@ -45,7 +45,7 @@ Shaman until level 17
 - 09: Last Stand
 - 10: Weapon Focus (Mythic): Rapier
 
-#### Hexes
+### Hexes
 
 - 02: Evil Eye or \[on Difficulty: Core and Above\] Protective Luck
 - 04: Whatever you didn't take above
@@ -54,7 +54,7 @@ Shaman until level 17
 - 12: Battlemaster
 - 16: Secret: Metamagic: Extend Spell
 
-#### Shaman Spells
+### Shaman Spells
 
 - 01: Cure Light Wounds, Bless, Unbreakable Heart (Confusion removal!)
 - 02: Barkskin
@@ -66,11 +66,11 @@ Shaman until level 17
 - 08: Seamantle, EXTENDED Legendary Proportions & Creeping Doom
 - 09: Heal Mass, Foresight, Shapechange
 
-#### Alchemist Spells
+### Alchemist Spells
 
 - 01: Shield, True Strike
 
-#### GEAR
+### GEAR
 
 - Amulet: Voracious Spirit (When Bone Amulet is removed)
 - Armor: Snakeskin/WebStrider/Mantle of Light/Chainmail of Comradery or ...Nothing
@@ -87,19 +87,19 @@ Shaman until level 17
 - Rapiers: Best in Slot: Translucent Needle of Astonishment <details><summary>Spoiler</summary> Kill Horgus after Chapter 1</details> Interceptor, Holy Rapier, Finnean, Mind Piercer
 - Quick Slots: Devil Imp, Quicken Metamagic Rod (for Mass Heal), Jharsygax
 
-#### Notes
+### Notes
 
 - Position her at the REAR of the Formation
 
-### Seelah
+## Seelah
 
-#### Stats
+### Stats
 
 - All to CHA
 
-#### Skills
+### Skills
 
-#### Feats and Classes
+### Feats and Classes
 
 Paladin to 20
 
@@ -113,7 +113,7 @@ Paladin to 20
 - 17: Improved Initiative
 - 19: Blind Fight
 
-#### Mythic Path
+### Mythic Path
 
 - 01: Leading Strike or Last Stand
 - 02: Extra Mythic Ability > Ever Ready
@@ -126,7 +126,7 @@ Paladin to 20
 - 09: Last Stand or Any of the "or" options from before
 - 10: Any or Flawless Attacks or Weapon Specialication (Mythic) or Weapon Focus (Mythic) if Multiclassed
 
-#### Mercies
+### Mercies
 
 - 03: Fatigued
 - 06: Diseased
@@ -135,14 +135,14 @@ Paladin to 20
 - 15: Stunned or Staggered
 - 18: Staggered or Any
 
-#### Spells
+### Spells
 
 - 01: Veil of Heaven / Veil of Positive Energy / Bless Weapon / Divine Favor
 - 02: Aura of Greater Courage / Bestow Grace
 - 03: Any / Greater Magic Weapon
 - 04: Eaglesoul / Holy Sword
 
-#### Gear
+### Gear
 
 - Neck: Amulet of Combat Awareness
 - Chest: Chainmail of Comradery or Mithral Plate or Mithral Full Plate or Any
