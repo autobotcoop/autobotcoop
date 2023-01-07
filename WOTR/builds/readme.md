@@ -20,6 +20,6 @@
 
 ### Companions
 
-#### Editor's Notes.
+#### Editor's Notes
 
 CRPG Bro is a min-maxer, Bolshy does loreful builds, Mortismal has different options.
