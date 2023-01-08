@@ -16,7 +16,7 @@ Work in Progress
 
 ## Mortismal Gaming
 
-### [Main Character](https://github.com/autobotcoop/autobotcoopWOTR/builds/MortismalGaming/mc_builds.md)
+### Main Character
 
 ### Companions
 
