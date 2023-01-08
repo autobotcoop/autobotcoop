@@ -4,7 +4,7 @@ Work in Progress
 
 ## [CRPG Bro](https://www.youtube.com/@cRPGBro)
 
-CRPG Bro loves to min-max and give everyone a pet. 
+CRPG Bro loves to min-max and give everyone a pet.
 
 ### [Main Character](WOTR/builds/CRPG_Bro_Builds/mc_builds.md)
 
