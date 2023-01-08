@@ -10,73 +10,7 @@ Notes
 
 ### [Lann](https://docs.google.com/spreadsheets/d/1FfDyTse3rzTPSkq4pNplBKKDcg0QqErKaeewQbL33u0/edit?usp=sharing)
 
-### Woljif
-
-#### Stats
-
-- 4: DEX
-- 8: DEX
-- 12: DEX
-- 16: DEX
-- 18: CON
-
-#### Skills
-
-- Mobility
-- Trickery
-- Stealth
-- Perception Use Magic Device
-
-#### Feats and Classes
-
-- 04: Eldrich Scoundrel  Debilitating Injury, Mirror Image
-- 05: Vivisectionist - Combat Reflexes - Shield, Enlarge
-- 06: Vivisectionist - Infusion
-- 07: Vivisectionist - Outflank
-- 08: Vivisectionist - Combat Trick - Improved Two Weapon Fighting, Animal Aspect
-- 09: Vivisectionist - Piranha Strike, False Life or Blur
-- 10: Vivisectionist - Combat Trick - Weapon Focus - Dagger, Any spell desired
-- 11: Vivisectionist - Improved Critical - Dagger, Haste (or Protection from Arrows)
-- 12: Vivisectionist - Combat Trick - Dazzling Display
-- 13: Vivisectionist - Shatter Defenses, Rage
-- 14: Vivisectionist - Dispelling Attack, Echolocation
-- 15: Vivisectionist - Greater Two Weapon Fighting, Greater False Life/Greater Invisibility
-- 16: Vivisectionist - Greater Mutagen
-- 17: Vivisectionist - Improved Initiative, Any spell
-- 18: Vivisectionist - Feral Mutagen
-- 19: Vivisectionist - Any feat, but video chooses Arcane Strike
-- 20: Vivisectionist - Grant Mutagen, Transformation
-
-#### Mythic Path
-
-- 01: Abundant Casting (or Last Stand if Unfair), Ever ready, Pounce/Unrelenting Assault/Archmage Armor,
-- 02: Mythic Two Weapon Fighting
-- 03: Ever Ready
-- 04: Mythic Improved Critical - Dagger
-- 05: Pounce/Unrelenting Assault/Archmage Armor
-- 06: Mythic Piranha Strike
-- 07: Mythic Charge/Improved Abundant Casting
-- 08: Mythic Improved Initiative
-- 09: Last Stand
-- 10: Mythic Sneak Attacker/Weapon Focus/Any
-
-#### Gear
-
-- Amulet: Quick Draw/Combat Awareness (DLC item)
-- Armor: None
-- Shirt: Cloth of Heavy Fortification
-- Belt: Belt of Physical Perfection
-- Hands: Embroidered Gloves/Fencers Gift/Deathdealer
-- Boots: Ronneck's Sacrifice
-- Helmet: Wind Master Helmet/Tripple Fin Helmet
-- Goggles: Rascals Goggles
-- Cloak: Cloak of Resistance
-- Ring 1 - Ring of Guiding Star
-- Ring 2 - Martyr's Testament
-- Bracers - Bracers of Abrupt Onslaught
-- Weapon 1 - Retrievers Claw
-- Weapon 2 - Hasty Eradicator
-- Quickslots - Extend Metamagic Rods, Imp Familar, Scrolls
+### [Woljif](https://docs.google.com/spreadsheets/d/1apjLDPb9UEck1qcPpYEmvgrXvgNWVEhpIukgdQWZOko/edit?usp=sharing)
 
 ### Ember
 
