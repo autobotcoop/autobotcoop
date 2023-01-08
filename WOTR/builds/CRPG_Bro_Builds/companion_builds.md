@@ -14,7 +14,7 @@ Notes
 
 ## [Ember](https://docs.google.com/spreadsheets/d/1MpLzD0J_VSUTJ1KKKtndiarYn8YM47jwDAa5TU-OE2o/edit?usp=sharing)
 
-### [Nenio](https://docs.google.com/spreadsheets/d/1LcywzObRNfsFUqZN5f62dNx24f2wTw2tB4TPVc67-X0/edit?usp=sharing)
+## [Nenio](https://docs.google.com/spreadsheets/d/1LcywzObRNfsFUqZN5f62dNx24f2wTw2tB4TPVc67-X0/edit?usp=sharing)
 
 ## Daeran
 
@@ -95,4 +95,4 @@ Oracle to 20
 - Weapons : Translucent Needle of Astonishment – Interceptor
 - Quickslots: Devouring Lust, Grandmasters Rod, Greater Quicken Metamagic Rod, Old Grimoire, Signet of House Vespertilio - Persuasion
 
-## Regill
+## [## Regill](https://docs.google.com/spreadsheets/d/172xXYSSdOvrWGKAdsQ6YzrhNlzO75bKzPMJx96Apf0M/edit?usp=sharing)
