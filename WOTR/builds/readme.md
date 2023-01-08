@@ -2,11 +2,11 @@ Work in Progress
 
 # Build Index
 
-## CRPG Bro
+## [CRPG Bro](https://www.youtube.com/@cRPGBro)
 
-### Main Character
+### [Main Character](WOTR/builds/CRPG_Bro_Builds/mc_builds.md)
 
-### Companions
+### [Companions](WOTR/builds/CRPG_Bro_Builds/companion_builds.md)
 
 ## Bolshy Plays
 
