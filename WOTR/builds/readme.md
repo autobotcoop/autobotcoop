@@ -12,7 +12,7 @@ CRPG Bro loves to min-max and give everyone a pet.
 
 ## Bolshy Plays
 
-All of Bolshy's videos are stamped from the play tests. As a result, some of the info may be out of date. He's the only one I've found so far doing loreful builds. 
+All of Bolshy's videos are stamped from the play tests. As a result, some of the info may be out of date. He's the only one I've found so far doing loreful builds.
 
 ### Main Character
 
