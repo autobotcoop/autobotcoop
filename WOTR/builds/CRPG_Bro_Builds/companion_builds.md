@@ -8,58 +8,15 @@ Notes
 
 ## [Seelah](https://docs.google.com/spreadsheets/d/1O-W1lVxF-n8eCHHziUrb0tB0TfekVf86ISUCZ0P2B-M/edit?usp=sharing)
 
-### [Lann](https://docs.google.com/spreadsheets/d/1FfDyTse3rzTPSkq4pNplBKKDcg0QqErKaeewQbL33u0/edit?usp=sharing)
+## [Lann](https://docs.google.com/spreadsheets/d/1FfDyTse3rzTPSkq4pNplBKKDcg0QqErKaeewQbL33u0/edit?usp=sharing)
 
-### [Woljif](https://docs.google.com/spreadsheets/d/1apjLDPb9UEck1qcPpYEmvgrXvgNWVEhpIukgdQWZOko/edit?usp=sharing)
+## [Woljif](https://docs.google.com/spreadsheets/d/1apjLDPb9UEck1qcPpYEmvgrXvgNWVEhpIukgdQWZOko/edit?usp=sharing)
 
-### Ember
-
-#### Skills
-
-- Use Magic Device
-- Knowledge (World)
-- Persuasion
-
-#### Stats
-
-- All to CHA
-
-#### Feats and Classes
-
-- 04: Witch
-- 05: Witch - Metamagic: Heighten Spell
-- 06: Witch
-- 07: Witch - Spell Penetration
-- 08: Witch
-- 09: Witch - Skill Focus: Knowledge (World)
-- 10: Loremaster - Spellbook Witch
-- 11: Witch - Greater Spell Penetration
-- 12: Witch
-- 13: Witch - Spell Focus: Enchantment
-- 14: Loremaster
-- 15: Loremaster - Greater Spell Focus: Enchantment, Shatter Defences
-- 16: Witch
-- 17: Loremaster - Improved Critical:Ray
-- 18: Loremaster - Cleric/wizard Spell: Overwhelming Presence
-- 19: Loremaster - Metamagic: Bolster Spell.
-- 20: Loremaster Secret: Improved Initiative
-
-#### Hexes
-
-- 04: (Hard and Below) Evil Eye // (Unfair)Protective Luck
-- 06: Cackle
-- 08: Fortune
-- 10: Beast's Gift
-- 12: Protective Luck
-
-#### Spells
-
-- Cleric
-  - Greater Command: Halt
+## [Ember](https://docs.google.com/spreadsheets/d/1MpLzD0J_VSUTJ1KKKtndiarYn8YM47jwDAa5TU-OE2o/edit?usp=sharing)
 
 ### [Nenio](https://docs.google.com/spreadsheets/d/1LcywzObRNfsFUqZN5f62dNx24f2wTw2tB4TPVc67-X0/edit?usp=sharing)
 
-### Daeran
+## Daeran
 
 #### Skills
 
@@ -137,3 +94,5 @@ Oracle to 20
 - Bracers: Bracers of the Heavy Hand
 - Weapons : Translucent Needle of Astonishment – Interceptor
 - Quickslots: Devouring Lust, Grandmasters Rod, Greater Quicken Metamagic Rod, Old Grimoire, Signet of House Vespertilio - Persuasion
+
+## Regill
