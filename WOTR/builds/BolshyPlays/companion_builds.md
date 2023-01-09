@@ -1,21 +1,17 @@
-# [Youtube](https://www.youtube.com/@cRPGBro)
+# [Youtube](https://www.youtube.com/@bolshyplays1733)
 
-## [Camella](https://docs.google.com/spreadsheets/d/1oYeMmuhUc-Ks1b_D3LwCMi38vaKeiJJN3MtC-7xBH_A/edit?usp=sharing)
+## [Camella](https://docs.google.com/spreadsheets/d/e/2PACX-1vSopzxVM1rRuYBhz0PKwdh5rDrue16Ta9AvkawQA80shS61lANJ3iOe5_Iyw2cWkNQH3wCNdr1kprt9/pubhtml#)
 
-Notes
+## [Seelah](https://docs.google.com/spreadsheets/d/e/2PACX-1vQylO0_JpZu8gMrILLmV5x2_u_VuqJG26tupTOMMnNpT5Xdz3nfDN_za0ODA7FGgQTKeNFPFtG_YtZq/pubhtml)
 
-- Position her at the REAR of the Formation
+## [Lann](https://docs.google.com/spreadsheets/d/e/2PACX-1vT_mExPjOeMUEGWQhtndetJfCqkYbAZ37ZCU4h1D4sdeDcDX49_eo5XMYuSH-jD7Y_UOLNWRMdqcMpy/pubhtml)
 
-## [Seelah](https://docs.google.com/spreadsheets/d/1O-W1lVxF-n8eCHHziUrb0tB0TfekVf86ISUCZ0P2B-M/edit?usp=sharing)
+## [Woljif](https://docs.google.com/spreadsheets/d/e/2PACX-1vR8HxuWlNujoD5_qsYlGAKH0sAwgIjrb0y7WAWZ6fs2DZ2zm5D6H816Mbbu5heqMGtzEQXja1O6kGVH/pubhtml)
 
-## [Lann](https://docs.google.com/spreadsheets/d/1FfDyTse3rzTPSkq4pNplBKKDcg0QqErKaeewQbL33u0/edit?usp=sharing)
+## [Ember](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9-Bi1UdevyM3kMm9LMLr90wEubzO43zrtnIde_NsPxvR9cK-PQ58RxtFtPbFlffBkzrnKvN7Xwzu5/pubhtml)
 
-## [Woljif](https://docs.google.com/spreadsheets/d/1apjLDPb9UEck1qcPpYEmvgrXvgNWVEhpIukgdQWZOko/edit?usp=sharing)
+## [Daeran](https://docs.google.com/spreadsheets/d/e/2PACX-1vT71sbZ1c4zwYZgKL3Nqy-4DkiId5e9BHFWVvsSzAlv5v737qoqmB4nc10Y9YyaOR0dFn36fFpnW49z/pubhtml)
 
-## [Ember](https://docs.google.com/spreadsheets/d/1MpLzD0J_VSUTJ1KKKtndiarYn8YM47jwDAa5TU-OE2o/edit?usp=sharing)
+## [Wenduag](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvvXchIFkdEvvdZGjjS_ws2wZNfXv-LR3-bAWZCzn0NVG9kP-G-KroVMxvmhiMvgdHBKv9aeNdEvbX/pubhtml)
 
-## [Nenio](https://docs.google.com/spreadsheets/d/1LcywzObRNfsFUqZN5f62dNx24f2wTw2tB4TPVc67-X0/edit?usp=sharing)
-
-## [Daeran](https://docs.google.com/spreadsheets/d/1eQoaa57r291ZG4GHN2tW1w4UXQ7JWJCKbzgsnO8Jraw/edit?usp=sharing)
-
-## [Regill](https://docs.google.com/spreadsheets/d/172xXYSSdOvrWGKAdsQ6YzrhNlzO75bKzPMJx96Apf0M/edit?usp=sharing)
+## [Sosiel](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYXNZOhO9MCbRtAJ76rROUfyy3CgWp0mm0XhjYlvEEkatoFaOHBxmyMMR8X_rwHns18VCwWuWPv8Rg/pubhtml)
