@@ -2,24 +2,26 @@ Work in Progress
 
 # Build Index
 
-## CRPG Bro
+## [CRPG Bro](https://www.youtube.com/@cRPGBro)
 
-### Main Character
+CRPG Bro loves to min-max, put everyone in melee, and give everyone a pet.
 
-### Companions
+### [Main Character](WOTR/builds/CRPG_Bro/mc_builds.md)
+
+### [Companions](WOTR/builds/CRPG_Bro/companion_builds.md)
 
 ## Bolshy Plays
 
-### Main Character
+All of Bolshy's videos are stamped from the play tests. As a result, some of the info may be out of date. He's the only one I've found so far doing loreful builds. Hasn't uploaded a new video in a year. Missing builds for Nenio, Regill.
 
-### Companions
+### [Main Character](WOTR/builds/BolshyPlays/mc_builds.md)
+
+### [Companions](WOTR/builds/BolshyPlays/companion_builds.md)
 
 ## Mortismal Gaming
 
-### [Main Character](https://github.com/autobotcoop/autobotcoopWOTR/builds/MortismalGaming/mc_builds.md)
+Included Mortismal because it's something different.
 
-### Companions
+### [Main Character](WOTR/builds/MortismalGaming/mc_builds.md)
 
-#### Editor's Notes
-
-CRPG Bro is a min-maxer, Bolshy does loreful builds, Mortismal has different options.
+### [Companions](WOTR/builds/MortismalGaming/companion_builds.md)
